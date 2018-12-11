@@ -1,5 +1,5 @@
 # Introduction
-This is the API for iTHRIV, a Translational Medicine service that provides a searchable, browsable index of resources avaialable to reseachers, clinicians and the public, to improve access and improve health care in our community.
+This is the API for the integrated Translational Health Research Institute of Virginia (iTHRIV).  iTHRIV is a collaboration of public and private institutions across the Commonwealth of Virginia that promotes shared resources and best practices, team science, community engagement, and innovation in health-related research.  The iTHRIV portal provides a searchable, browsable index of health research resources available to reseachers and the public.
 
 ## Platform
 This is a Python3 / Flask based api. It relies on a Relational Database for storing and organizing resources.  It uses Elastic Search as a full text search engine for locating resources.  It will use Scrapy to crawl a currated list of related websites.
